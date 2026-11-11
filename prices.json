@@ -1,0 +1,11 @@
+{
+  "_comment": "PRICES MUST BE CHECKED AGAINST EACH PROVIDER'S PRICING PAGE. Dated 2026-11-11: UNVERIFIED, EDIT BEFORE USE. Values are USD per 1M tokens, entered as placeholders for the demo; they are not a statement of current list prices. 'cached' is the price of a cached input token (cache reads); cache-write premiums and batch discounts are not modelled.",
+  "_date": "2026-11-11",
+  "_status": "unverified, edit before use",
+  "models": {
+    "claude-sonnet-4-5": {"input": 3.00, "output": 15.00, "cached": 0.30},
+    "claude-haiku-4-5":  {"input": 1.00, "output": 5.00,  "cached": 0.10},
+    "gpt-4o":            {"input": 2.50, "output": 10.00, "cached": 1.25},
+    "gpt-4o-mini":       {"input": 0.15, "output": 0.60,  "cached": 0.075}
+  }
+}
