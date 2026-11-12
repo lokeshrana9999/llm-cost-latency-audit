@@ -1,5 +1,7 @@
 # LLM usage audit
 
+> **This audit now lives at [github.com/lokeshrana9999/llm-cost-skills](https://github.com/lokeshrana9999/llm-cost-skills).** It runs as skills your coding agent uses on your own usage logs, locally. This repo is kept only for links already shared.
+
 Send a usage export (model, tokens and latency per call). Within 48 hours you get a report: where your LLM spend and latency go, which changes cut cost without changing model output, and which need an eval first.
 
 No prompts, completions, user content or API keys. Free. The script is stdlib Python and runs offline, so you can also run it yourself.
